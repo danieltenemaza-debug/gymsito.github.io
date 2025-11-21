@@ -1,0 +1,26 @@
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Pestaña 2 - Herramientas de acceso remoto</title>
+</head>
+<body>
+<h1>Pestaña 2: Concepto e imagen</h1>
+
+
+<section>
+<h2>Anydesk</h2>
+<p>Anydesk permite controlar equipos a distancia con baja latencia y facilidades de transferencia de archivos. Es común en soporte técnico y acceso remoto sencillo.</p>
+<img src="/img/anydesk.png" alt="Logo Anydesk" width="200">
+</section>
+
+
+<section>
+<h2>TeamViewer</h2>
+<p>TeamViewer ofrece acceso remoto y colaboración con funciones de reuniones en línea y compartición de pantalla segura. Se usa tanto en soporte como en trabajo colaborativo.</p>
+<img src="/img/teamviewer.png" alt="Logo TeamViewer" width="200">
+</section>
+
+
+</body>
+</html>
